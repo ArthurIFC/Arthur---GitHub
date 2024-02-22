@@ -27,3 +27,9 @@ Código (entre crases)
 
 "Link"
 [Site do IFC](https://ifc.edu.br/)
+
+Tabela
+
+Número|Nome|Nota
+-|-|-
+6|Arthur|8.0
