@@ -25,5 +25,5 @@ Imagem
 Código (entre crases)
 `print("hello")`
 
-"Link":
-Site do Ifc
+"Link"
+Site do IFC
